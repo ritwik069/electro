@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Antonio:wght@100&display=swap');
+.navbar{
+    height:60px;
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    align-items: center;
+    border-bottom: grey 1px solid;
+    padding-bottom: 10px;
+    -webkit-box-shadow: 1px 12px 11px 5px #000000; 
+
+    box-shadow: 1px 12px 11px -13px #000000;
+    position: sticky;
+    top: 0;
+    z-index: 99;
+    background-color: white;
+    
+
+}
+.logo{font-size: 36px;
+    font-family: 'Antonio', sans-serif
+
+}
+.left{
+    font-size: 36px;
+    font-family: 'Antonio', sans-serif;
+    /* color:#094f98; */
+
+
+}
+.right{
+    display: flex;
+    justify-content: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+    
+}
+.badge{
+    margin: 10px;
+}
