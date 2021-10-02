@@ -46,7 +46,7 @@ function Cart() {
                 <>
                     <div className="empty">
                         <h3>Cart is empty</h3>
-                        <Link to='/'>
+                        <Link to='/electro/p'>
                             <button>
                                 Start Shopping
 
