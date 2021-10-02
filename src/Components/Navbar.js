@@ -10,19 +10,19 @@ function Navbar() {
         <div className='navbar'>
 
             <div className="left">
-                <Link to='/' style={{textDecoration:'none', color:'black'}}>
+                <Link to='/electro/' style={{textDecoration:'none', color:'black'}}>
                 <h3>ElectRo</h3>
                 </Link>
             </div>
             <div className="right">
                 <h4 style={{ margin: '10px', fontSize: '25px', color: '#2797cc' }}>
-                    <Link to='/p' style={{ textDecoration: 'none', margin: '10px', fontSize: '25px', color: '#2797cc' }}>
+                    <Link to='/electro/p' style={{ textDecoration: 'none', margin: '10px', fontSize: '25px', color: '#2797cc' }}>
                         STORE
                     </Link>
                 </h4>
 
                     <Badge className='badge' badgeContent={cartItem?.length} color="primary">
-                <Link to='/cart'>
+                <Link to='/electro/cart'>
                         <ShoppingCartOutlinedIcon style={{ fontSize: '30px', color: '#05e88a' }} />
                 </Link>
                     </Badge>

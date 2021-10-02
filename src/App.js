@@ -27,14 +27,14 @@ function App() {
           <Navbar />  
           {/* <Slider/> */}
           <Switch>
-            <Route exact path='/cart'>
+            <Route exact path='/electro/cart'>
 
               <Cart />
             </Route>
-            <Route exact path='/p'>
+            <Route exact path='/electro/p'>
               <Product />
             </Route>
-            <Route exact path='/'>
+            <Route exact path='/electro/'>
             <Slider/>
             </Route>
           </Switch>
