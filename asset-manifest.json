@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/electro/static/css/main.7e67835b.chunk.css",
-    "main.js": "/electro/static/js/main.e90c2b6b.chunk.js",
-    "main.js.map": "/electro/static/js/main.e90c2b6b.chunk.js.map",
+    "main.js": "/electro/static/js/main.b99d8980.chunk.js",
+    "main.js.map": "/electro/static/js/main.b99d8980.chunk.js.map",
     "runtime-main.js": "/electro/static/js/runtime-main.9a3c32a9.js",
     "runtime-main.js.map": "/electro/static/js/runtime-main.9a3c32a9.js.map",
     "static/js/2.009336b0.chunk.js": "/electro/static/js/2.009336b0.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.9a3c32a9.js",
     "static/js/2.009336b0.chunk.js",
     "static/css/main.7e67835b.chunk.css",
-    "static/js/main.e90c2b6b.chunk.js"
+    "static/js/main.b99d8980.chunk.js"
   ]
 }
